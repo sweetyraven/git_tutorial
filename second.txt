@@ -5,3 +5,5 @@ change-line
 change2
 
 for rebase
+
+for rebase interactive
